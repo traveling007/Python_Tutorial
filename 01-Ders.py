@@ -1,1 +1,1 @@
-print "Malik ATINA FATIHI"
+print("ATINA FATIHI")
