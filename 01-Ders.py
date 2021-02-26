@@ -1,0 +1,1 @@
+print "Malik ATINA FATIHI"
