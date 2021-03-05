@@ -21,8 +21,8 @@ messages='software {}'      # format burada koseli parantezi kullanarak name de 
 ## bosluk bir karakter olarak sayilir.
 ##print(name[:4]) buda ayni sekilde 0-4 arasinda ki karakteri yazdirir 3 dahil 4 dahil degil
 ##print(name.title()) ##bas harfleri buyuk yazar
-## print(name.upper))## tum yaziyi kucuk yazar 
-## print(name.lower)) ## tum yaziyi buyuk yazar 
+## print(name.lower))## tum yaziyi kucuk yazar 
+## print(name.upper)) ## tum yaziyi buyuk yazar 
 ##print(name.count('a')) ## kac tane ornegin 'a' harfinden var gibi yani kac tane oldugunu yazdirir
 ## print(name.find('n')) ##hangi karakterin kacinci sirada oldugunu gostermeye yarar
 ##print(name.replace('ufuk bro' , 'adam')) ## burada hangi kelimeyi degistirmek istersek kullaniriz.
